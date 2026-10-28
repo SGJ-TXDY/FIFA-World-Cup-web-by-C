@@ -1,0 +1,49 @@
+# team_id	name_zh	name_en	group	coach	fifa_rank	market_value(亿)	played	wins	draws	losses	points	goals_for	goals_against	logo_url
+mex	墨西哥	Mexico	A	Javier Aguirre	15	1.9	3	3	0	0	9	2	0	https://crests.football-data.org/769.svg
+kor	韩国	South Korea	A	Hong Myungbo	25	1.3	3	1	0	2	3	2	3	https://crests.football-data.org/772.png
+cze	捷克	Czechia	A	Miroslav Koubek	41	1.8	3	0	1	2	1	2	6	https://crests.football-data.org/798.svg
+rsa	南非	South Africa	A	Hugo Broos	60	0.448	3	1	1	1	4	2	3	https://crests.football-data.org/9396.svg
+sui	瑞士	Switzerland	B	Murat Yakin	19	3.3	3	2	1	0	7	8	3	https://crests.football-data.org/788.svg
+can	加拿大	Canada	B	Jesse Marsch	30	1.9	3	1	1	1	4	4	3	https://crests.football-data.org/canada.svg
+qat	卡塔尔	Qatar	B	Julen Lopetegui	55	0.193	3	0	1	2	1	1	10	https://crests.football-data.org/8030.svg
+bih	波黑	Bosnia-Herzegovina	B	Sergej Barbarez	65	1.4	3	1	1	1	4	4	6	https://crests.football-data.org/bosnia.svg
+bra	巴西	Brazil	C	Carlo Ancelotti	6	9.4	3	2	1	0	7	10	1	https://crests.football-data.org/764.svg
+mar	摩洛哥	Morocco	C	Mohamed Ouahbi	8	4.8	3	2	1	0	7	5	3	https://crests.football-data.org/morocco.svg
+sco	苏格兰	Scotland	C	Steve Clarke	43	1.7	3	1	0	2	3	1	4	https://crests.football-data.org/814.svg
+hai	海地	Haiti	C	Sébastien Migné	83	0.556	3	0	0	3	0	1	8	https://crests.football-data.org/haiti.svg
+usa	美国	United States	D	Mauricio Pochettino	16	3.8	3	2	0	1	6	9	4	https://crests.football-data.org/usa.svg
+tur	土耳其	Turkey	D	Vincenzo Montella	22	4.7	3	1	0	2	3	2	5	https://crests.football-data.org/803.svg
+aus	澳大利亚	Australia	D	Tony Popović	27	0.736	3	1	1	1	4	2	2	https://crests.football-data.org/779.svg
+par	巴拉圭	Paraguay	D	Gustavo Alfaro	40	1.5	3	1	1	1	4	2	4	https://crests.football-data.org/761.svg
+ger	德国	Germany	E	Julian Nagelsmann	10	9.8	3	2	0	1	6	7	4	https://crests.football-data.org/759.svg
+ecu	厄瓜多尔	Ecuador	E	Sebastián Beccacece	23	3.7	3	1	1	1	4	2	2	https://crests.football-data.org/791.svg
+civ	科特迪瓦	Ivory Coast	E	Emerse Faé	34	5.2	3	2	0	1	6	5	2	https://crests.football-data.org/787.svg
+cuw	库索拉	Curaçao	E	Dick Advocaat	82	0.2583	3	0	1	2	1	0	9	https://crests.football-data.org/curacao.svg
+ned	荷兰	Netherlands	F	Ronald Koeman	7	8.3	3	2	1	0	7	9	4	https://crests.football-data.org/8601.svg
+jpn	日本	Japan	F	Hajime Moriyasu	18	2.7	3	1	2	0	5	8	3	https://crests.football-data.org/766.svg
+swe	瑞典	Sweden	F	Graham Potter	38	4.2	3	1	1	1	4	7	7	https://crests.football-data.org/792.svg
+tun	突尼斯	Tunisia	F	Hervé Renard	44	0.6965	3	0	0	3	0	2	12	https://crests.football-data.org/tunisia.svg
+bel	比利时	Belgium	G	Rudi Garcia	9	5.4	3	1	2	0	5	10	2	https://crests.football-data.org/805.svg
+irn	伊朗	Iran	G	Amir Ghalenoei	21	0.3265	3	0	3	0	3	1	3	https://crests.football-data.org/iran.svg
+egy	埃及	Egypt	G	Hossam Hassan	29	1.1	3	1	2	0	5	5	3	https://crests.football-data.org/825.svg
+nzl	新西兰	New Zealand	G	Darren Bazeley	85	0.328	3	0	1	2	1	4	10	https://crests.football-data.org/783.svg
+esp	西班牙	Spain	H	Luis de la Fuente	2	12.2	3	2	1	0	7	8	0	https://crests.football-data.org/760.svg
+uru	乌拉圭	Uruguay	H	Marcelo Bielsa	17	3.9	3	0	2	1	2	3	4	https://crests.football-data.org/758.svg
+ksa	沙特阿拉伯	Saudi Arabia	H	Giorgios Donis	61	0.37	3	0	2	1	2	1	5	https://crests.football-data.org/saudi_arabia.svg
+cpv	佛得角	Cape Verde Islands	H	Bubista	69	0.5618	3	0	3	0	3	2	2	https://crests.football-data.org/cape_verde.svg
+fra	法国	France	I	Didier Deschamps	1	15.6	3	3	0	0	9	14	2	https://crests.football-data.org/773.svg
+sen	塞内加尔	Senegal	I		14	4.8	3	1	0	2	3	6	6	https://crests.football-data.org/senegal.svg
+nor	挪威	Norway	I	Ståle Solbakken	31	5.9	3	2	0	1	6	9	7	https://crests.football-data.org/813.svg
+irq	伊拉克	Iraq	I	Graham Arnold	57	0.211	3	0	0	3	0	0	12	https://crests.football-data.org/iraq.svg
+arg	阿根廷	Argentina	J	Lionel Scaloni	3	8.1	3	3	0	0	9	10	1	https://crests.football-data.org/762.png
+aut	奥地利	Austria	J	Ralf Rangnick	24	2.3	3	1	1	1	4	4	6	https://crests.football-data.org/816.svg
+alg	阿尔及利亚	Algeria	J	Vladimir Petković	28	2.5	3	1	1	1	4	4	7	https://crests.football-data.org/algeria.svg
+jor	约旦	Jordan	J		63	0.198	3	0	0	3	0	1	8	https://crests.football-data.org/8049.png
+por	葡萄牙	Portugal	K	Roberto Martínez	5	10.1	3	1	2	0	5	7	1	https://crests.football-data.org/765.svg
+col	哥伦比亚	Colombia	K	Néstor Lorenzo	13	3	3	2	1	0	7	3	1	https://crests.football-data.org/818.svg
+cod	刚果	Congo DR	K	Sébastien Desabre	46	1.4	3	1	1	1	4	3	3	https://crests.football-data.org/congo_dr.svg
+uzb	乌兹别克斯坦	Uzbekistan	K	Fabio Cannavaro	50	0.8533	3	0	0	3	0	1	11	https://crests.football-data.org/8070.png
+eng	英格兰	England	L	Thomas Tuchel	2	13.7	3	2	1	0	7	11	2	https://crests.football-data.org/770.svg
+cro	克罗地亚	Croatia	L	Zlatko Dalić	11	3.8	3	2	0	1	6	5	5	https://crests.football-data.org/799.svg
+pan	巴拿马	Panama	L	Thomas Christiansen	33	0.3483	3	0	0	3	0	0	4	https://crests.football-data.org/panama.svg
+gha	加纳	Ghana	L	Carlos Queiroz	74	2.3	3	1	1	1	4	0	2	https://crests.football-data.org/ghana.svg

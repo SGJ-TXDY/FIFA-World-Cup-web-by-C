@@ -1,0 +1,14 @@
+# 编译产物
+*.o
+a.out
+worldcup_server
+
+# 数据库：worldcup.db 由 teams.txt / players.txt 启动时导入，mima.db 保存账号密码
+*.db
+
+# 服务器运行时动态生成的页面
+work file/homepage.html
+work file/player.html
+work file/team.html
+work file/search.html
+webserver_wordmean/mean.html
